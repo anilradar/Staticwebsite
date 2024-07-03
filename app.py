@@ -6,3 +6,6 @@ product = a * b
 print("The sum of a and b is: ", sum)
 print("The difference of b and a is: ", Diff)
 print("The product of b and a is: ", product)
+
+print("The sum of a and b is: ", sum)
+
