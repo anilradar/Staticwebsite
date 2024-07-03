@@ -2,8 +2,5 @@ Hello This is Anil...!!
 I am a DevOps Engineer.
 I am staying in Hyderabad from the past 13 years.
 I am woking in Hyderabad.
-<<<<<<< HEAD:Hi.txt
-there is Kukatpalli in Hyderabad.
-=======
+There is Kukatpalli in Hyderabad.
 There is Ameerpet in Hyderabad.
->>>>>>> 775f8cc2508465b0ce05e6e6dfd62226436b775c:hello.txt
